@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color:rgb(112, 5, 5)}
+
+li{
+    font-size: 13px;
+    font-style: italic;
+    color: black;
+    font-weight: normal;}    
+a{
+    color: black;}
+h1{
+    font-size: 40px;
+}
+.listheading{
+    font-weight: bold;
+    font-style: normal;
+}
+.justify{ text-align: justify;
+}
+div.border{
+    border: 5px solid #000000 ;
+}
